@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\formulaheron\obj\Debug\netcoreapp3.1\formulaheron.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\formulaheron\obj\Debug\netcoreapp3.1\formulaheron.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\formulaheron\obj\Debug\netcoreapp3.1\formulaheron.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\formulaheron\obj\Debug\netcoreapp3.1\formulaheron.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\formulaheron\bin\Debug\netcoreapp3.1\formulaheron.exe
+C:\Users\kelly\Documents\atividadespc1\formulaheron\bin\Debug\netcoreapp3.1\formulaheron.deps.json
+C:\Users\kelly\Documents\atividadespc1\formulaheron\bin\Debug\netcoreapp3.1\formulaheron.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\formulaheron\bin\Debug\netcoreapp3.1\formulaheron.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\formulaheron\bin\Debug\netcoreapp3.1\formulaheron.dll
+C:\Users\kelly\Documents\atividadespc1\formulaheron\bin\Debug\netcoreapp3.1\formulaheron.pdb
+C:\Users\kelly\Documents\atividadespc1\formulaheron\obj\Debug\netcoreapp3.1\formulaheron.dll
+C:\Users\kelly\Documents\atividadespc1\formulaheron\obj\Debug\netcoreapp3.1\formulaheron.pdb
+C:\Users\kelly\Documents\atividadespc1\formulaheron\obj\Debug\netcoreapp3.1\formulaheron.genruntimeconfig.cache
